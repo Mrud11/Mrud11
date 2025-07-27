@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: r.mrudula27@gmail.com
 - 😄 Pronouns: She / Her
 
-**## My Skills are 🚀:**
+## My Skills are 🚀:
 
 ### 💻 Programming & Tools  
 <p align="left">
@@ -50,8 +50,14 @@ Here are some ideas to get you started:
 
 ### 🔉 Voice & Speech AI  
 <p align="left">
-  <img src="https://img.shields.io/badge/Text%20to%20Speech-007ACC?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
+🗣️ Text-to-Speech (TTS)
+<p align="left"> <img src="https://img.shields.io/badge/Text%20to%20Speech-007ACC?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/TTS%20(TensorFlow)-FF7043?style=for-the-badge&logo=tensorflow&logoColor=white"/> </p>
+🎙️ Speech-to-Text
+<p align="left"> <img src="https://img.shields.io/badge/Speech%20Recognition-FF6F00?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Speech%20API-34A853?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Whisper%20(OpenAI)-000000?style=for-the-badge&logo=openai&logoColor=white"/> </p>
+🎧 Audio Processing
+<p align="left"> <img src="https://img.shields.io/badge/Librosa-1E90FF?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyDub-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/> </p>
+💡 Emotion Recognition (LSTM-based)
+<p align="left"> <a href="https://github.com/your-username/emotion-recognition-lstm" target="_blank"> <img src="https://img.shields.io/badge/Speech%20Emotion%20Recognition-FF4081?style=for-the-badge&logo=pytorch&logoColor=white"/> </a> </p>
 
 ### ☁️ Cloud & Hosting  
 <p align="left">
@@ -63,4 +69,4 @@ Here are some ideas to get you started:
 - 📧 Email: yourname@example.com  
 - 🔗 LinkedIn: [Link](https://www.linkedin.com/in/mrudula-raj/)  
 
--->
+
