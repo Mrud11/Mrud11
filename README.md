@@ -59,10 +59,6 @@ Here are some ideas to get you started:
 💡 Emotion Recognition (LSTM-based)
 <p align="left"> <a href="https://github.com/your-username/emotion-recognition-lstm" target="_blank"> <img src="https://img.shields.io/badge/Speech%20Emotion%20Recognition-FF4081?style=for-the-badge&logo=pytorch&logoColor=white"/> </a> </p>
 
-### ☁️ Cloud & Hosting  
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
 
 ## 📫 Contact Me
 
