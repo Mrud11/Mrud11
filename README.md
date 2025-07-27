@@ -11,24 +11,56 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She / Her
 
 **## My Skills are 🚀:**
- 
+
+### 💻 Programming & Tools  
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DAX-004880?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-42A5F5?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API-0052CC?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-** 📫 Contact Me: **
-- Email: r.mrudula27@gmail.com 
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/mrudula-raj/)
+### 📊 Visualization & BI  
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+### 🧠 AI & Machine Learning  
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF4081?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-CC8899?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFCD00?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+</p>
+
+### 🔗 GenAI Frameworks & Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-66BB6A?style=for-the-badge&logo=llamaindex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-BD93F9?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector%20Database-009688?style=for-the-badge&logo=weaviate&logoColor=white"/>
+</p>
+
+### 🔉 Voice & Speech AI  
+<p align="left">
+  <img src="https://img.shields.io/badge/Text%20to%20Speech-007ACC?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & Hosting  
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+## 📫 Contact Me
+
+- 📧 Email: yourname@example.com  
+- 🔗 LinkedIn: [Link](https://www.linkedin.com/in/mrudula-raj/)  
+
 -->
