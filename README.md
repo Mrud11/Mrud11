@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 ## 📫 Contact Me
 
-- 📧 Email: yourname@example.com  
+- 📧 Email: r.mrudula27@gmail.com
 - 🔗 LinkedIn: [Link](https://www.linkedin.com/in/mrudula-raj/)  
 
 
